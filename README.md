@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+This is the backend for the proyect "Video-Collection" based on fazt tutorials for stack-mern with typesript
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
